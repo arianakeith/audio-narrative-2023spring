@@ -1,0 +1,12 @@
+Prospective assets list: 
+-pencil / pen sounds writing (create)
+-squeaking of desk chair (repurpose)
+-flipping through papers (create)
+-highlighting on paper (create)
+-pen clicking (create)
+-keyboard clicks (typing) (create)
+-clock ticking (repurpose)
+-a deep breathe (create or repurpose)
+-sounds of making a cup of coffee with a Keurig (create)
+-a fan or ac unit humming as a consistent background noise (repurpose) 
+-the sounds of online learning tutorials such as kkan academy (repurpose) 
