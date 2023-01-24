@@ -24,4 +24,4 @@ Prospective assets list:
 
 -conversations with roommates about the exam (record)
 
-alarm going off (for when its time to leave for the test) (stock)
+alarm going off (for when its time to leave for the test) (record)
