@@ -23,3 +23,5 @@ Prospective assets list:
 -the sounds of online learning tutorials such as kkan academy (stock) 
 
 -conversations with roommates about the exam (record)
+
+alarm going off (for when its time to leave for the test) (stock)
