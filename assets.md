@@ -1,23 +1,25 @@
 Prospective assets list:
 
--pencil / pen sounds writing (create)
+-pencil / pen sounds writing (record)
 
--squeaking of desk chair (repurpose)
+-squeaking of desk chair (stock)
 
--flipping through papers (create)
+-flipping through papers (record)
 
--highlighting on paper (create)
+-highlighting on paper (record)
 
--pen clicking (create)
+-pen clicking (record)
 
--keyboard clicks (typing) (create)
+-keyboard clicks (typing) (record)
 
--clock ticking (repurpose)
+-clock ticking (stock)
 
--a deep breathe (create or repurpose)
+-a deep breathe (record or stock)
 
--sounds of making a cup of coffee with a Keurig (create)
+-sounds of making a cup of coffee with a Keurig (record)
 
--a fan or ac unit humming as a consistent background noise (repurpose)
+-a fan or ac unit humming as a consistent background noise (stock)
 
--the sounds of online learning tutorials such as kkan academy (repurpose) 
+-the sounds of online learning tutorials such as kkan academy (stock) 
+
+-conversations with roommates about the exam (record)
