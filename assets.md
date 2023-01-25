@@ -24,9 +24,7 @@ Prospective assets list:
 
 -calculator typing (stock) done-freesound
 
-background study music (stock-youtube) done-credits?
-https://ytmp3.nu/en4/
-
+-background study music (stock-youtube) done
 
 -the sounds of online learning tutorials such as kkan academy (stock) 
 
@@ -35,4 +33,17 @@ https://ytmp3.nu/en4/
 -highlighting on paper (record) 
 
 -sounds of making a cup of coffee with a Keurig (record)
+
+
+
+
+Credits:
+
+Background study music
+
+home = YouTube
+address = https://ytmp3.nu/en4/
+name = 1 A.M Study Session 📚 - [lofi hip hop/chill beats]
+owner = Lofi Girl
+born = 2020
 
