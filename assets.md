@@ -1,24 +1,26 @@
 Prospective assets list:
 
--pencil / pen sounds writing (stock) done
+-pencil / pen sounds writing (stock) done-freesound
 
--squeaking of desk chair (stock) done
+-squeaking of desk chair (stock) done-freesound
 
--flipping through papers (stock) done
+-flipping through papers (stock) done-freesound
 
--pen clicking (stock) done
+-pen clicking (stock) done-freesound
 
--keyboard clicks (typing) (stock) done
+-keyboard clicks (typing) (stock) done-freesound
 
--clock ticking (stock) done
+-clock ticking (stock) done-freesound
 
--a deep breathe (record or stock) done
+-a deep breathe (record or stock) done-freesound
 
-alarm going off (for when its time to leave for the test) (stock) done
+alarm going off (for when its time to leave for the test) (stock) done-freesound
 
--a fan or ac unit humming as a consistent background noise (stock) done
+-a fan or ac unit humming as a consistent background noise (stock) done-freesound
 
--calculator typing (stock) done
+-calculator typing (stock) done-freesound
+
+background study music (stock-youtube) 
 
 -the sounds of online learning tutorials such as kkan academy (stock) 
 
@@ -27,3 +29,4 @@ alarm going off (for when its time to leave for the test) (stock) done
 -highlighting on paper (record) 
 
 -sounds of making a cup of coffee with a Keurig (record)
+
