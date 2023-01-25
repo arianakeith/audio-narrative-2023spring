@@ -24,7 +24,9 @@ Prospective assets list:
 
 -calculator typing (stock) done-freesound
 
-background study music (stock-youtube) 
+background study music (stock-youtube) done-credits?
+https://ytmp3.nu/en4/
+
 
 -the sounds of online learning tutorials such as kkan academy (stock) 
 
