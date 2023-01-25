@@ -1,4 +1,4 @@
-Prospective assets list:
+**Prospective assets list:**
 
 -pencil / pen sounds writing (stock) done-freesound
 
@@ -37,7 +37,7 @@ Prospective assets list:
 
 
 
-Credits:
+**Credits:**
 
 Background study music
 
