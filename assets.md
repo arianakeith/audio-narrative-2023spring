@@ -43,7 +43,7 @@
 
     home = YouTube
 
-    address = https://ytmp3.nu/en4/
+    address = https://www.youtube.com/watch?v=lTRiuFIWV54
 
     name = 1 A.M Study Session 📚 - [lofi hip hop/chill beats]
 
