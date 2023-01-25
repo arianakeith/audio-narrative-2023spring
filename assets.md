@@ -14,7 +14,11 @@ Prospective assets list:
 
 -a deep breathe (record or stock) done-freesound
 
-alarm going off (for when its time to leave for the test) (stock) done-freesound
+-door open and close (stock) done-freesound
+
+-coffee slurp (stock) done-freesound
+
+-alarm going off (for when its time to leave for the test) (stock) done-freesound
 
 -a fan or ac unit humming as a consistent background noise (stock) done-freesound
 
