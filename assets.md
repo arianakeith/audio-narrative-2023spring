@@ -41,12 +41,12 @@
 
 1. Background study music:
 
-home = YouTube
+    home = YouTube
 
-address = https://ytmp3.nu/en4/
+    address = https://ytmp3.nu/en4/
 
-name = 1 A.M Study Session 📚 - [lofi hip hop/chill beats]
+    name = 1 A.M Study Session 📚 - [lofi hip hop/chill beats]
 
-owner = Lofi Girl
+    owner = Lofi Girl
 
-born = 2020
+    born = 2020
