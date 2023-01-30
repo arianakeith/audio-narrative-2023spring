@@ -26,12 +26,6 @@
 
 -background study music (stock-youtube) done
 
--the sounds of online learning tutorials such as kkan academy (stock) 
-
--conversations with roommates about the exam (record)
-
--highlighting on paper (record) 
-
 -sounds of making a cup of coffee with a Keurig (record) done
 
 -my voice saying "its time" (record) done
