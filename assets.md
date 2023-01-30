@@ -32,9 +32,9 @@
 
 -highlighting on paper (record) 
 
--sounds of making a cup of coffee with a Keurig (record)
+-sounds of making a cup of coffee with a Keurig (record) done
 
--my voice saying "its time" (record)
+-my voice saying "its time" (record) done
 
 
 
