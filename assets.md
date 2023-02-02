@@ -18,11 +18,7 @@
 
 -coffee slurp (stock) done-freesound
 
--alarm going off (for when its time to leave for the test) (stock) done-freesound
-
 -a fan or ac unit humming as a consistent background noise (stock) done-freesound
-
--calculator typing (stock) done-freesound
 
 -background study music (stock-youtube) done
 
@@ -46,3 +42,83 @@
     owner = Lofi Girl
 
     born = 2020
+    
+2. Writing_pen_01
+
+    home = Freesound
+
+    address = https://freesound.org/people/moai15/sounds/336382/
+    
+    license = CC0 
+    
+3. Flipping through notebook
+
+    home = Freesound
+
+    address = https://freesound.org/people/sportygurl37/sounds/120217/
+    
+    license = Attribution 3.0
+    
+4. Clicking a pen
+
+    home = Freesound
+
+    address = https://freesound.org/people/deleted_user_7146007/sounds/383436/
+    
+    license = Attribution 3.0
+    
+5. Clock Chime, Antique
+
+    home = Freesound
+
+    address = https://freesound.org/people/InspectorJ/sounds/401221/
+    
+    license = Attribution 4.0
+
+6. Slurping and Swallowing2
+
+    home = Freesound
+
+    address = https://freesound.org/people/squashy555/sounds/239007/
+    
+    license = CC0    
+    
+7. Door opening and closing 8
+
+    home = Freesound
+
+    address = https://freesound.org/people/JakLocke/sounds/261109/
+    
+    license = Attribution 4.0
+    
+ 8. Squeaky Office Chair
+
+    home = Freesound
+
+    address = https://freesound.org/people/Pastabra/sounds/366019/
+    
+    license = Noncommercial 4.0
+    
+ 9. Deep Breath
+
+    home = Freesound
+
+    address = https://freesound.org/people/Joao_Janz/sounds/484028/
+    
+    license = CC0
+    
+ 10. AC Unit
+
+    home = Freesound
+
+    address = https://freesound.org/people/zolopher/sounds/73524/
+    
+    license = CC0
+    
+11. Typing on Laptop
+
+    home = Freesound
+
+    address = https://freesound.org/people/EmmaB19/sounds/367177/
+    
+    license = Attribution 3.0
