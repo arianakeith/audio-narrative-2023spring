@@ -12,8 +12,6 @@ Background music titled "1 A.M Study Session 📚 - [lofi hip hop/chill beats]" 
 
 "Clicking a pen" homed on Freesound at  https://freesound.org/people/deleted_user_7146007/sounds/383436/ with an Attrbution 3.0 license. 
 
-"Clock Chime, Antique" homed on Freesound at  https://freesound.org/people/InspectorJ/sounds/401221/ with an  Attrbution 4.0 license. 
-
 "Slurping and Swallowing2" homed on Freesound at https://freesound.org/people/squashy555/sounds/239007/ with a CC0 license. 
 
 "Door opening and closing 8" homed on Freesound at  https://freesound.org/people/JakLocke/sounds/261109/ with an Attribution 4.0 license. 
@@ -25,3 +23,5 @@ Background music titled "1 A.M Study Session 📚 - [lofi hip hop/chill beats]" 
 "AC Unit" homed on Freesound at https://freesound.org/people/zolopher/sounds/73524/ with a CC0 license. 
 
 "Typing on Laptop" homed on Freesound at  https://freesound.org/people/EmmaB19/sounds/367177/ with an Attribution 3.0 license. 
+
+"iPhone_alarm" homed on Freesound at  https://freesound.org/people/bayaba22c/sounds/575814/ with a CC0 license.
