@@ -10,8 +10,6 @@
 
 -keyboard clicks (typing) (stock) done-freesound
 
--clock ticking (stock) done-freesound
-
 -a deep breathe (record or stock) done-freesound
 
 -door open and close (stock) done-freesound
@@ -67,13 +65,13 @@
     
     license = Attribution 3.0
     
-5. Clock Chime, Antique
+5. iPhone_alarm
 
     home = Freesound
 
-    address = https://freesound.org/people/InspectorJ/sounds/401221/
+    address = https://freesound.org/people/bayaba22c/sounds/575814/
     
-    license = Attribution 4.0
+    license = CC0
 
 6. Slurping and Swallowing2
 
