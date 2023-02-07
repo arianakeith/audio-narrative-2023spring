@@ -25,3 +25,5 @@ Background music titled "1 A.M Study Session 📚 - [lofi hip hop/chill beats]" 
 "Typing on Laptop" homed on Freesound at  https://freesound.org/people/EmmaB19/sounds/367177/ with an Attribution 3.0 license. 
 
 "iPhone_alarm" homed on Freesound at  https://freesound.org/people/bayaba22c/sounds/575814/ with a CC0 license.
+
+All other sounds used were created and recorded by me. 
